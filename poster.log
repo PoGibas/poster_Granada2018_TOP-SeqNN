@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 APR 2018 22:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 APR 2018 22:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1147,7 +1147,7 @@ Here is how much of TeX's memory you used:
 /dvips/lm/lm-l7x.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/
 lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.p
 fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
-Output written on poster.pdf (1 page, 42182744 bytes).
+Output written on poster.pdf (1 page, 42182741 bytes).
 PDF statistics:
  159 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
