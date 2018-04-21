@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 APR 2018 00:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 APR 2018 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -884,8 +884,8 @@ File: babel.def 2017/05/19 3.10 Babel common definitions
 \babel@savecnt=\count115
 \U@D=\dimen160
 )))
-Grid set 119 x 84 = 20.03647pt x 39.96935pt
-TextBlockOrigin set to 0.1cm x 0.5cm
+Grid set 119 x 84 = 19.8452pt x 39.63062pt
+TextBlockOrigin set to 0.5cm x 1cm
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -923,21 +923,21 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 ) (./poster.aux)
 \openout1 = `poster.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for L7x/lmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Try loading font information for L7x+lmss on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for L7x/lmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for L7x+lmss on input line 46.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/l7xlmss.fd
@@ -1010,27 +1010,27 @@ e
 File: ./figures/meta_Cover.pdf Graphic file (type pdf)
 
 <use ./figures/meta_Cover.pdf>
-Package pdftex.def Info: ./figures/meta_Cover.pdf used on input line 49.
+Package pdftex.def Info: ./figures/meta_Cover.pdf used on input line 50.
 (pdftex.def)             Requested size: 704.626pt x 835.61417pt.
 
-Overfull \hbox (719.626pt too wide) in paragraph at lines 49--50
+Overfull \hbox (719.626pt too wide) in paragraph at lines 50--51
 [][] 
  []
 
 LaTeX Font Info:    Font shape `L7x/lmss/m/it' in size <17.28> not available
-(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 53.
+(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 62.
 
-Overfull \hbox (9.28291pt too wide) in paragraph at lines 53--54
+Overfull \hbox (9.28291pt too wide) in paragraph at lines 62--63
 []\L7x/lmss/m/sl/17.28 PG 
  []
 
 
-Overfull \hbox (11.16507pt too wide) in paragraph at lines 56--57
+Overfull \hbox (11.16507pt too wide) in paragraph at lines 65--66
 []\L7x/lmss/m/sl/17.28 MS 
  []
 
 
-Overfull \hbox (6.57492pt too wide) in paragraph at lines 59--60
+Overfull \hbox (6.57492pt too wide) in paragraph at lines 68--69
 []\L7x/lmss/m/sl/17.28 JG 
  []
 
@@ -1038,10 +1038,10 @@ Overfull \hbox (6.57492pt too wide) in paragraph at lines 59--60
 File: ./figures/meta_logo_VU.png Graphic file (type png)
 
 <use ./figures/meta_logo_VU.png>
-Package pdftex.def Info: ./figures/meta_logo_VU.png used on input line 65.
+Package pdftex.def Info: ./figures/meta_logo_VU.png used on input line 74.
 (pdftex.def)             Requested size: 244.5129pt x 154.4165pt.
 
-Overfull \hbox (259.5129pt too wide) in paragraph at lines 65--66
+Overfull \hbox (259.5129pt too wide) in paragraph at lines 74--75
 [][] 
  []
 
@@ -1049,57 +1049,57 @@ Overfull \hbox (259.5129pt too wide) in paragraph at lines 65--66
 File: ./figures/meta_logo_BTI.png Graphic file (type png)
 
 <use ./figures/meta_logo_BTI.png>
-Package pdftex.def Info: ./figures/meta_logo_BTI.png used on input line 68.
+Package pdftex.def Info: ./figures/meta_logo_BTI.png used on input line 77.
 (pdftex.def)             Requested size: 64.19983pt x 101.78021pt.
 
-Overfull \hbox (79.19983pt too wide) in paragraph at lines 68--69
+Overfull \hbox (79.19983pt too wide) in paragraph at lines 77--78
 [][] 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 74.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 83.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 74.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 83.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 74.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 83.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 74.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 83.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <35.83> on input line 74.
+(Font)              <35.83> on input line 83.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <24.88> on input line 74.
+(Font)              <24.88> on input line 83.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 74.
+(Font)              <17.28> on input line 83.
 LaTeX Font Info:    Font shape `L7x/lmss/m/it' in size <35.83> not available
-(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 79.
+(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 88.
 
-Overfull \hbox (208.479pt too wide) in paragraph at lines 103--104
+Overfull \hbox (208.479pt too wide) in paragraph at lines 112--113
 [][] 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <51.6> on input line 107.
+(Font)              <51.6> on input line 116.
 <./figures/TOP-Seq_Scheme.pdf, id=8, 699.61375pt x 1640.1275pt>
 File: ./figures/TOP-Seq_Scheme.pdf Graphic file (type pdf)
 
 <use ./figures/TOP-Seq_Scheme.pdf>
-Package pdftex.def Info: ./figures/TOP-Seq_Scheme.pdf used on input line 111.
+Package pdftex.def Info: ./figures/TOP-Seq_Scheme.pdf used on input line 120.
 (pdftex.def)             Requested size: 629.64656pt x 1476.10114pt.
 
-Overfull \hbox (644.64656pt too wide) in paragraph at lines 111--112
+Overfull \hbox (644.64656pt too wide) in paragraph at lines 120--121
 [][] 
  []
 
@@ -1107,81 +1107,26 @@ Overfull \hbox (644.64656pt too wide) in paragraph at lines 111--112
 File: ./figures/TOP-Seq_distance.pdf Graphic file (type pdf)
 
 <use ./figures/TOP-Seq_distance.pdf>
-Package pdftex.def Info: ./figures/TOP-Seq_distance.pdf used on input line 117.
+Package pdftex.def Info: ./figures/TOP-Seq_distance.pdf used on input line 126.
 
 (pdftex.def)             Requested size: 450.68263pt x 286.06805pt.
 
-Overfull \hbox (465.68263pt too wide) in paragraph at lines 117--118
+Overfull \hbox (465.68263pt too wide) in paragraph at lines 126--127
 [][] 
  []
 
 
-Overfull \hbox (148.72888pt too wide) in paragraph at lines 125--126
-[][] 
- []
-
-<./figures/figure_1.pdf, id=10, 2890.8pt x 722.7pt>
-File: ./figures/figure_1.pdf Graphic file (type pdf)
-
-<use ./figures/figure_1.pdf>
-Package pdftex.def Info: ./figures/figure_1.pdf used on input line 156.
-(pdftex.def)             Requested size: 1474.28853pt x 368.57211pt.
-
-Overfull \hbox (1489.28853pt too wide) in paragraph at lines 156--157
+Overfull \hbox (148.72888pt too wide) in paragraph at lines 134--135
 [][] 
  []
 
 
-Overfull \hbox (148.72888pt too wide) in paragraph at lines 162--163
-[][] 
- []
-
-<./figures/figure_2.pdf, id=11, 710.655pt x 341.275pt>
-File: ./figures/figure_2.pdf Graphic file (type pdf)
-
-<use ./figures/figure_2.pdf>
-Package pdftex.def Info: ./figures/figure_2.pdf used on input line 192.
-(pdftex.def)             Requested size: 710.65326pt x 341.27415pt.
-
-Overfull \hbox (725.65326pt too wide) in paragraph at lines 192--193
-[][] 
- []
-
-<./figures/figure_3.pdf, id=12, 682.55pt x 511.9125pt>
-File: ./figures/figure_3.pdf Graphic file (type pdf)
-
-<use ./figures/figure_3.pdf>
-Package pdftex.def Info: ./figures/figure_3.pdf used on input line 195.
-(pdftex.def)             Requested size: 682.54834pt x 511.91125pt.
-
-Overfull \hbox (697.54834pt too wide) in paragraph at lines 195--196
-[][] 
- []
-
-<./figures/figure_4.pdf, id=13, 540.0175pt x 397.485pt>
-File: ./figures/figure_4.pdf Graphic file (type pdf)
-
-<use ./figures/figure_4.pdf>
-Package pdftex.def Info: ./figures/figure_4.pdf used on input line 198.
-(pdftex.def)             Requested size: 540.01617pt x 397.48402pt.
-
-Overfull \hbox (555.01617pt too wide) in paragraph at lines 198--199
-[][] 
- []
-
-<./figures/figure_5.pdf, id=14, 682.55pt x 284.06125pt>
-File: ./figures/figure_5.pdf Graphic file (type pdf)
-
-<use ./figures/figure_5.pdf>
-Package pdftex.def Info: ./figures/figure_5.pdf used on input line 201.
-(pdftex.def)             Requested size: 682.54834pt x 284.06053pt.
-
-Overfull \hbox (697.54834pt too wide) in paragraph at lines 201--202
+Overfull \hbox (148.72888pt too wide) in paragraph at lines 171--172
 [][] 
  []
 
 LaTeX Font Info:    Font shape `L7x/lmss/m/it' in size <24.88> not available
-(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 211.
+(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 220.
 
 [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -1189,25 +1134,23 @@ LaTeX Font Info:    Font shape `L7x/lmss/m/it' in size <24.88> not available
 Non-PDF special ignored!
 Non-PDF special ignored! <./figures/meta_Cover.pdf> <./figures/meta_logo_VU.png
 > <./figures/meta_logo_BTI.png> <./figures/TOP-Seq_Scheme.pdf> <./figures/TOP-S
-eq_distance.pdf> <./figures/figure_1.pdf> <./figures/figure_2.pdf> <./figures/f
-igure_3.pdf> <./figures/figure_4.pdf> <./figures/figure_5.pdf>] (./poster.aux) 
-) 
+eq_distance.pdf>] (./poster.aux) ) 
 Here is how much of TeX's memory you used:
- 14809 strings out of 492995
- 300308 string characters out of 6132704
- 340518 words of memory out of 5000000
- 18063 multiletter control sequences out of 15000+600000
- 34613 words of font info for 38 fonts, out of 8000000 for 9000
+ 14786 strings out of 492995
+ 299740 string characters out of 6132704
+ 339540 words of memory out of 5000000
+ 18045 multiletter control sequences out of 15000+600000
+ 36170 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,7n,73p,809b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-l7x.enc}</usr/local/
-texlive/2017/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2017/texmf
--dist/fonts/type1/public/lm/lmsso17.pfb>
-Output written on poster.pdf (1 page, 54798977 bytes).
+{/usr/local/texlive/2017/texmf-dist/fonts/enc
+/dvips/lm/lm-l7x.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/
+lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.p
+fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
+Output written on poster.pdf (1 page, 42182744 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 255 compressed objects within 3 object streams
+ 159 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

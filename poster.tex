@@ -12,7 +12,7 @@
 
 \setlength{\paperheight}{119cm}
 \setlength{\paperwidth}{84cm}
-\TPGrid[0.1cm,0.5cm]{119}{84}
+\TPGrid[0.5cm,1cm]{119}{84}
 \setlength{\TPHorizModule}{1cm}
 \setlength{\TPVertModule}{1cm}
 
@@ -30,6 +30,7 @@
 \def\Title#1{\noindent{\textbf{\veryHuge\color{fontMain} #1}}}
 \def\Authors#1{\noindent{\Large\color{fontMain2} #1}\bigskip}
 \def\SectionTitle#1{\noindent{\huge\color{fontMain2} #1}}
+\def\CoverTitle#1{\noindent{\textbf{\VERYHuge\color{white} #1}}}
 
 
 \tikzset{
@@ -48,6 +49,14 @@
     \begin{textblock}{0}(0,0)
             \includegraphics[scale=0.9]{meta_Cover}
     \end{textblock}
+
+    \begin{textblock}{20}(4.2,2)
+        \CoverTitle{TOP-seq}
+    \end{textblock}
+    \begin{textblock}{20}(4.2,6.5)
+        \CoverTitle{Estimation}
+    \end{textblock}
+
 
     \begin{textblock}{1}(4.2,15)
         \footnotesize\textit{PG}
@@ -97,39 +106,39 @@
         \end{itemize}
     \end{textblock}
 
-    \begin{textblock}{18}(0,32)
+    \begin{textblock}{18}(0,31)
         \begin{tikzpicture}[mybackground={}]
             \node[minimum width=24.7cm,minimum height=77cm]{};
         \end{tikzpicture}
     \end{textblock}
-    \begin{textblock}{25}(0.55,32.8)
+    \begin{textblock}{25}(0.55,31.8)
         \begin{center}
             \SectionTitle{TOP-seq\textsuperscript{1}: direct readout of individual unmethylated CG sites}
         \end{center}
     \end{textblock}
-    \begin{textblock}{0}(0.8,40)
+    \begin{textblock}{0}(0.8,39)
             \includegraphics[scale=0.9]{TOP-Seq_Scheme}
     \end{textblock}
-    \begin{textblock}{20}(3,96)
+    \begin{textblock}{20}(3,95)
         \Large98\% of reads start within 2bp of CG
     \end{textblock}
-    \begin{textblock}{0}(4,98)
+    \begin{textblock}{0}(4,97)
         \includegraphics{TOP-Seq_distance}
     \end{textblock}
 
 
 
-    \begin{textblock}{50}(27.8,32)
+    \begin{textblock}{50}(26.8,31)
         \begin{tikzpicture}[mybackground={}]
             \node[minimum width=54.6cm,minimum height=38cm]{};
         \end{tikzpicture}
     \end{textblock}
 
-    \begin{textblock}{25}(30,33.4)
+    \begin{textblock}{25}(29,32.4)
             \SectionTitle{Method}
     \end{textblock}
 
-    \begin{textblock}{25}(30,37)
+    \begin{textblock}{25}(29,36)
         \Large
         \begin{itemize}
             \item IMR90 cell line sequenced using TOP-seq\textsuperscript{1} used for prediction
@@ -138,11 +147,11 @@
         \end{itemize}
     \end{textblock}
 
-    \begin{textblock}{25}(57,33.4)
+    \begin{textblock}{25}(56,32.4)
         \SectionTitle{Input features}
     \end{textblock}
 
-    \begin{textblock}{25}(57,37)
+    \begin{textblock}{25}(56,36)
         \Large
         \begin{itemize}
             \item TOP-\textsuperscript{1} coverage and u-density for each CG in the genome
@@ -152,21 +161,21 @@
         \end{itemize}
     \end{textblock}
 
-    \begin{textblock}{0}(30,55)
-        \includegraphics[scale=0.51]{figure_1}
-    \end{textblock}
+    % \begin{textblock}{0}(29,54)
+    %     \includegraphics[scale=0.51]{figure_1}
+    % \end{textblock}
 
-    \begin{textblock}{50}(27.8,73)
+    \begin{textblock}{50}(26.8,72)
         \begin{tikzpicture}[mybackground={}]
             \node[minimum width=54.6cm,minimum height=44.9cm]{};
         \end{tikzpicture}
     \end{textblock}
 
-    \begin{textblock}{25}(30,74.4)
+    \begin{textblock}{25}(29,73.4)
         \SectionTitle{Results}
     \end{textblock}
 
-    \begin{textblock}{25}(30,78)
+    \begin{textblock}{25}(29,77)
         \Large
         \begin{itemize}
             \item Correlation between WGBS and predicted values in protein coding genes (n = 18.5k):\\
@@ -174,35 +183,35 @@
         \end{itemize}
     \end{textblock}
 
-    \begin{textblock}{25}(57,78)
+    \begin{textblock}{25}(56,77)
         \Large
         \begin{itemize}
             \item Applying regressor model on CpG islands with simulated differential coverage (observed average coverage was scaled by a given factor) yields a corresponding change in predicted values.
         \end{itemize}
     \end{textblock}
 
-    \begin{textblock}{25}(57,100)
+    \begin{textblock}{25}(56,99)
         \Large
         \begin{itemize}
             \item Correlation between WGBS 1 and predicted values in different chromosomes. For a subset of random CG (20K) scatter plots between the two measurements are shown on the left.
         \end{itemize}
     \end{textblock}
 
-    \begin{textblock}{0}(30,87)
-        \includegraphics{figure_2}
-    \end{textblock}
-    \begin{textblock}{0}(30,99)
-        \includegraphics{figure_3}
-    \end{textblock}
-    \begin{textblock}{0}(57,85)
-        \includegraphics{figure_4}
-    \end{textblock}
-    \begin{textblock}{0}(57,107)
-        \includegraphics{figure_5}
-    \end{textblock}
+    % \begin{textblock}{0}(29,86)
+    %     \includegraphics{figure_2}
+    % \end{textblock}
+    % \begin{textblock}{0}(29,98)
+    %     \includegraphics{figure_3}
+    % \end{textblock}
+    % \begin{textblock}{0}(56,84)
+    %     \includegraphics{figure_4}
+    % \end{textblock}
+    % \begin{textblock}{0}(56,106)
+    %     \includegraphics{figure_5}
+    % \end{textblock}
 
     % References
-    \begin{textblock}{22}(2,110)
+    \begin{textblock}{22}(2,109)
         \renewcommand{\section}[2]{}
         \begin{thebibliography}{}
             \bibitem{Stasevskij}
