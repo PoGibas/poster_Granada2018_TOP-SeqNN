@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 APR 2018 22:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 APR 2018 22:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1120,13 +1120,75 @@ Overfull \hbox (148.72888pt too wide) in paragraph at lines 134--135
 [][] 
  []
 
+<./figures/figure_1.pdf, id=10, 2890.8pt x 722.7pt>
+File: ./figures/figure_1.pdf Graphic file (type pdf)
 
-Overfull \hbox (148.72888pt too wide) in paragraph at lines 171--172
+<use ./figures/figure_1.pdf>
+Package pdftex.def Info: ./figures/figure_1.pdf used on input line 165.
+(pdftex.def)             Requested size: 1532.11674pt x 383.02917pt.
+
+Overfull \hbox (1547.11674pt too wide) in paragraph at lines 165--166
 [][] 
  []
 
 LaTeX Font Info:    Font shape `L7x/lmss/m/it' in size <24.88> not available
-(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 220.
+(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 169.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <20.74> on input line 172.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 172.
+LaTeX Font Info:    Font shape `L7x/lmss/m/it' in size <20.74> not available
+(Font)              Font shape `L7x/lmss/m/sl' tried instead on input line 172.
+
+
+Overfull \hbox (148.72888pt too wide) in paragraph at lines 185--186
+[][] 
+ []
+
+<./figures/figure_2.pdf, id=11, 710.655pt x 341.275pt>
+File: ./figures/figure_2.pdf Graphic file (type pdf)
+
+<use ./figures/figure_2.pdf>
+Package pdftex.def Info: ./figures/figure_2.pdf used on input line 215.
+(pdftex.def)             Requested size: 710.65326pt x 341.27415pt.
+
+Overfull \hbox (725.65326pt too wide) in paragraph at lines 215--216
+[][] 
+ []
+
+<./figures/figure_3.pdf, id=12, 682.55pt x 511.9125pt>
+File: ./figures/figure_3.pdf Graphic file (type pdf)
+
+<use ./figures/figure_3.pdf>
+Package pdftex.def Info: ./figures/figure_3.pdf used on input line 218.
+(pdftex.def)             Requested size: 682.54834pt x 511.91125pt.
+
+Overfull \hbox (697.54834pt too wide) in paragraph at lines 218--219
+[][] 
+ []
+
+<./figures/figure_4.pdf, id=13, 540.0175pt x 397.485pt>
+File: ./figures/figure_4.pdf Graphic file (type pdf)
+
+<use ./figures/figure_4.pdf>
+Package pdftex.def Info: ./figures/figure_4.pdf used on input line 221.
+(pdftex.def)             Requested size: 540.01617pt x 397.48402pt.
+
+Overfull \hbox (555.01617pt too wide) in paragraph at lines 221--222
+[][] 
+ []
+
+<./figures/figure_5.pdf, id=14, 682.55pt x 284.06125pt>
+File: ./figures/figure_5.pdf Graphic file (type pdf)
+
+<use ./figures/figure_5.pdf>
+Package pdftex.def Info: ./figures/figure_5.pdf used on input line 224.
+(pdftex.def)             Requested size: 682.54834pt x 284.06053pt.
+
+Overfull \hbox (697.54834pt too wide) in paragraph at lines 224--225
+[][] 
+ []
 
 [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -1134,23 +1196,28 @@ LaTeX Font Info:    Font shape `L7x/lmss/m/it' in size <24.88> not available
 Non-PDF special ignored!
 Non-PDF special ignored! <./figures/meta_Cover.pdf> <./figures/meta_logo_VU.png
 > <./figures/meta_logo_BTI.png> <./figures/TOP-Seq_Scheme.pdf> <./figures/TOP-S
-eq_distance.pdf>] (./poster.aux) ) 
+eq_distance.pdf> <./figures/figure_1.pdf> <./figures/figure_2.pdf> <./figures/f
+igure_3.pdf> <./figures/figure_4.pdf> <./figures/figure_5.pdf>] (./poster.aux) 
+) 
 Here is how much of TeX's memory you used:
- 14786 strings out of 492995
- 299740 string characters out of 6132704
- 339540 words of memory out of 5000000
- 18045 multiletter control sequences out of 15000+600000
- 36170 words of font info for 39 fonts, out of 8000000 for 9000
+ 14822 strings out of 492995
+ 300519 string characters out of 6132704
+ 341540 words of memory out of 5000000
+ 18075 multiletter control sequences out of 15000+600000
+ 45013 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,7n,73p,809b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc
-/dvips/lm/lm-l7x.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/
-lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.p
-fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
-Output written on poster.pdf (1 page, 42182741 bytes).
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/t
+exlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/201
+7/texmf-dist/fonts/enc/dvips/lm/lm-l7x.enc}</usr/local/texlive/2017/texmf-dist/
+fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/lm/lmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm
+/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
+Output written on poster.pdf (1 page, 54825970 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 322 PDF objects out of 1000 (max. 8388607)
+ 263 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
